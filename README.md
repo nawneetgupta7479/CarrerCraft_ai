@@ -6,7 +6,7 @@ Optimize your job search, craft perfect resumes, and navigate your career with c
 
 ---
 
-## ✨ Features.
+## ✨ Features
 
 - 🎯 **AI Resume Builder**  
   Professionally formatted, industry-tailored resumes with a single click.
